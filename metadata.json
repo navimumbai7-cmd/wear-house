@@ -1,0 +1,6 @@
+{
+  "name": "WareForge - Industrial Warehouse Builder & Real-Time WMS",
+  "description": "Industrial warehouse construction blueprint designer and real-time inventory management system featuring automated camera barcode scanning, 30-day PEB masterplan tracking, and smart dock dispatch.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
